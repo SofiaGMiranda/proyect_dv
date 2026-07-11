@@ -33,7 +33,6 @@ Análisis del comportamiento de ventas en retail para la optimización de decisi
 - Documento técnico completo (informe + resumen ejecutivo)
 - Notebooks del pipeline (limpieza → EDA → agregación → PCA)
 - Presentación de defensa
-- [Video de exposición (entrega 4)](https://youtu.be/-NQcbajeSsk)
 
 ## Equipo
 
